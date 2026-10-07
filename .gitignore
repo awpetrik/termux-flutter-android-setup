@@ -1,0 +1,19 @@
+# Build artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+*.so
+*.jar
+
+# Logs
+*.log
+
+# Gradle / Flutter
+.gradle/
+build/
+.dart_tool/
+
+# OS / editor
+.DS_Store
+*.swp
